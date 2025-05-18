@@ -19,5 +19,5 @@ This project is a Power BI dashboard created using the AdventureWorks dataset â€
 ðŸ“Œ Why This Project?
 This project shows how Power BI can turn business data into easy-to-understand visuals and insights.
 
-
+![image alt](https://github.com/soumenbhattacharya1991/Adventure-works-Dashboard/blob/9f07ce25c5f8baaaff1f11269cdcaaec99b9700f/Executive%20Dashboard.png)
 
