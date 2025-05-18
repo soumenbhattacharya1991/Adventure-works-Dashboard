@@ -21,3 +21,4 @@ This project shows how Power BI can turn business data into easy-to-understand v
 
 ![image alt](https://github.com/soumenbhattacharya1991/Adventure-works-Dashboard/blob/9f07ce25c5f8baaaff1f11269cdcaaec99b9700f/Executive%20Dashboard.png)
 ![image alt](https://github.com/soumenbhattacharya1991/Adventure-works-Dashboard/blob/df11cf2ad57ff5eb9a882245eba6ab46b83e12e3/Map.png)
+![image alt](https://github.com/soumenbhattacharya1991/Adventure-works-Dashboard/blob/1c3f2df8c2f894f4de618d116df8c7c83e492b35/Product%20info.png)
